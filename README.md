@@ -1,5 +1,5 @@
 # Replication of HiREST
-The code for the joint baseline model for the 4 hierarchical tasks for HiREST[[1]](#1).
+My implementation of the code for the joint baseline model for the 4 hierarchical tasks for HiREST[[1]](#1), can be found in [main.ipynb](https://github.com/khushipatni-psu/CSE597_Project/blob/main/main.ipynb).
 
 ## Install Packages
 
